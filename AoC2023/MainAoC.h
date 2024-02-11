@@ -6,6 +6,9 @@
 #include <stdio.h>
 #include <algorithm> 
 #include <numeric>
+#include <ctype.h> 
+#include <map>
+
 
 class MainAoC
 {
